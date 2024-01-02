@@ -1,3 +1,5 @@
+package Arrays;
+
 public class largest_element_of_an_array {
     public static void main(String[] args) {
         int arr[] = {10,5,6,2,8};
@@ -6,7 +8,7 @@ public class largest_element_of_an_array {
     }
 
     static int findlargestelement(int arr[]){
-        if('arr == null || arr.length = 0'){
+        if(arr == null || arr.length == 0){
             throw new IllegalArgumentException("Array is empty or null");
         }
 
