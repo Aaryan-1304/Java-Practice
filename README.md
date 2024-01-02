@@ -3,7 +3,7 @@
 Welcome to the "Java Practice" repository! This folder is dedicated to providing Java programming problems for practice.
 Beginner developer looking to sharpen my Java skills, this collection of problems aims to help enhance my coding abilities.
 
-Learning and upadating my knowldege here as my java footprint
+Learning and updating my knowldege here as my java footprint
 
 ## Problems
 
