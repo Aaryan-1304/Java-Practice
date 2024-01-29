@@ -3,7 +3,7 @@ package Arrays.Arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class rotate{
+public class rotatearray {
 
     static int[] roatatearray(int arr[], int n){
         int temp = arr[0];
